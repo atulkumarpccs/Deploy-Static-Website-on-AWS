@@ -13,3 +13,14 @@ The files included are:
 * /css - CSS files for the website.
 
 
+## Acceptence Criteria
+
+* https://review.udacity.com/#!/rubrics/2573/view
+
+* Access your website in a browser using the unique S3 endpoint.
+
+* screenshot the results of each of your steps and submit the screenshots in a zipped folder when done.
+
+* The zipped folder should contain a README.txt file which includes your website's URL and any other relevant info you'd like to send to the review team.
+
+
